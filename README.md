@@ -3,7 +3,7 @@
 
 <h1 align="center"><b>Products</b></h1>
 <h3 align="center"><b>Cantus Multimedia Player</b></h3>
-<p> Cantus Multimedia Player is An android application who revives the nostalgic days of </p><b><a herf="https://winamp.com/">NullSoft's Winamp</a></b> <p>With Materialish design as provided by Google Including Milkrop2 and Good Equalizing Library and an Advanced VideoPlayer</p>
+<p> Cantus Multimedia Player is An android application who revives the nostalgic days of<b><a herf="https://winamp.com/">NullSoft's Winamp</a></b>With Materialish design as provided by Google Including Milkrop2 and Good Equalizing Library and an Advanced VideoPlayer</p>
 <h2 align="center"><b>Giovanni</b></h2>
 <p>An Advanced Gallery app with Ai integration</p>
 
