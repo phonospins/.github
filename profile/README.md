@@ -1,12 +1,10 @@
-## Hi there 👋
+<h2 align="center"><b>Phonospins Inc</b></h2>
+<p>Phonospins Inc is a Profit Organization and Company which makes multimedia applications  And revive memories and listen to music inside the devices </p>
 
-<!--
+<h1 align="center"><b>Products</b></h1>
+<h3 align="center"><b>Cantus Multimedia Player</b></h3>
+<p> Cantus Multimedia Player is An android application who revives the nostalgic days of<b><a herf="https://winamp.com/">NullSoft's Winamp</a></b>With Materialish design as provided by Google Including Milkrop2 and Good Equalizing Library and an Advanced VideoPlayer</p>
+<h2 align="center"><b>Giovanni</b></h2>
+<p>An Advanced Gallery app with Ai integration</p>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h4 align="center"><b>You Can find Our Used Libraries here as Licensed under their own License and OSS Modules Used</b></h4>
