@@ -1,5 +1,5 @@
-<h2 align="center"><b>Phonospins Inc</b></h2>
-<p>Phonospins Inc is a Profit Organization and Company which makes multimedia applications  And revive memories and listen to music inside the devices </p>
+<h2 align="center"><b>Syntaxinteractive</b></h2>
+<p>SyntaxInteractive is a Profit Organization and Company which makes multimedia applications  And revive memories and listen to music inside the devices </p>
 
 <h1 align="center"><b>Products</b></h1>
 <h3 align="center"><b>Cantus Multimedia Player</b></h3>
